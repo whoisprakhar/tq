@@ -1,0 +1,6 @@
+Click==7.0
+coloredlogs==10.0
+humanfriendly==4.18
+pkg-resources==0.0.0
+pytz==2019.1
+redis==3.2.1
